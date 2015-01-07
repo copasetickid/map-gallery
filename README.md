@@ -7,4 +7,4 @@ Showcase a collection of interactions with the Google Maps API
 Improving my skills of using the Google Maps API
 
 ## Authors
-@copasetickid
+[@copasetickid](https://twitter.com/copasetickid)
