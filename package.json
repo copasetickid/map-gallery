@@ -14,5 +14,10 @@
     "debug": "~2.1.1",
     "hbs": "~2.8.0"
   },
-  "author": "Rushaine McBean"
+  "author": "Rushaine McBean",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
 }
